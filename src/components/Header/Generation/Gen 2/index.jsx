@@ -3,3 +3,4 @@ const Gen2 = () => {
 };
 
 export default Gen2
+

@@ -1,5 +1,6 @@
-const Search = () => {
-    return <h1>Search</h1>;
+const Gen2 = () => {
+    return <h1>Gen2</h1>;
 };
 
-export default Search
+export default Gen2
+

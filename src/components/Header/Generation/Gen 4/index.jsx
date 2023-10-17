@@ -1,5 +1,5 @@
 const Gen4 = () => {
-    return <h1>Gen4</h1>
+    return <h5>Gen4</h5>
 }
 
 export default Gen4

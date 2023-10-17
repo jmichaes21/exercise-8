@@ -1,5 +1,5 @@
 const Logo = () => {
-    return <h2> Logo </h2>
+    return <h5> Logo </h5>
 };
 
 export default Logo;

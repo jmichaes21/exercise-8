@@ -9,8 +9,8 @@ import Footer from "./components/Footer"
 function App() {
   return (
     <>
-    <Home />
     <Header />
+    <Home />
     <Footer />
     </>
     

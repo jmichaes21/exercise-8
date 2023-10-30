@@ -1,5 +1,6 @@
-const Logo = () => {
-    return <h5> Logo </h5>
+/* eslint-disable react/prop-types */
+const Logo = ({title}) => {
+    return <h5> {title} </h5>
 };
 
 export default Logo;

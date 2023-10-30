@@ -1,5 +1,6 @@
-const Search = () => {
-    return <h2>Search</h2>;
+/* eslint-disable react/prop-types */
+const Search = ({title}) => {
+    return <h2>{title}</h2>;
 };
 
 export default Search

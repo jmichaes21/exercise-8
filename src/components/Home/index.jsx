@@ -5,8 +5,8 @@ const Home = () => {
     return (
     <>
         <h1>Homee</h1>
-        <CardInfo />
-        <Search />
+        <CardInfo title="CardInfo by angel"/>
+        <Search title="Search by angel" />
     </>
     )
 }

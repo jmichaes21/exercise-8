@@ -1,5 +1,5 @@
-const TypeEffect = () => {
-    return <h5> Type Effect </h5>
-};
+/* eslint-disable react/prop-types */
+const TypeEffect = ({title}) => {
+    return <h2> {title} </h2>
 
 export default TypeEffect;

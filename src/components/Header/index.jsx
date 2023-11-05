@@ -1,12 +1,13 @@
+/* eslint-disable react/prop-types */
 import Generation from "./Generation"
 import Logo from "./Logo"
 
-const Header = () => {
+const Header = ({title}) => {
     return (
         <>
-            <h1>Header</h1>
-            <Generation />
-            <Logo />
+            <h1>{title}</h1>
+            <Generation title="Generation by Putri" />
+            <Logo title="Logo by Putri" />
         </>
     )
 }
